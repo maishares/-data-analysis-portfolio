@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio
+# My Data Analysis Portfolio 🚀
 
 Hi! I'm **Bushra Tarannum Maisha**, a Statistics student passionate about data analysis and turning data into actionable insights.
 
