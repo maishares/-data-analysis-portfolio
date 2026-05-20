@@ -22,7 +22,7 @@ Hi! I'm **Bushra Tarannum Maisha**, a Statistics student passionate about data a
 
 ### 1. **E-commerce Sales Analysis** 📈
 - Analyzed 10,000+ sales records to identify trends
-- [View Project →](./projects/ecommerce-sales/)
+- [View Project →](projects/ecommerce-sales-analysis)
 
 ### 2. **Customer Churn Prediction** 🎯
 - Built ML model achieving 85% accuracy
